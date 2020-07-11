@@ -1,0 +1,6 @@
+Comment,Designator,Footprint,LCSC, LCSC
+"1uF","C1","Capacitors_SMD:C_0603","","C15849"
+"RED","D1,D2,D3,D4,D5,D6,D7,D8","LEDs:LED_0603","","C2286"
+"CONN_01X04","P1","MOD:Pin_Header_Straight_1x04_No_Silk_Long_Pads",""
+"1K","R1,R2,R3,R4,R5,R6,R7,R8","Resistors_SMD:R_0603","","C21190"
+"74HC164","U1","Housings_SOIC:SOIC-14_3.9x8.7mm_Pitch1.27mm","","C6825"
