@@ -9,4 +9,4 @@ The LED Shifter is a useful tool for SPI debugging without the use of an oscillo
 This board is based around the 74HC624 shift register. Because of this, this board can be used to debug logic levels ranging from 2 to 6V. Red LEDs allow the board to function down to 2V because of their low forward voltage. Note: the male headers do not come pre-soldered to the board.
 
 ## Schematic ##
-![image goes here](IMAGES/KitDuino-Proto_SCHEM.png) <br />
+![image goes here](IMAGES/LED-Shifter_SCHEM.png) <br />
